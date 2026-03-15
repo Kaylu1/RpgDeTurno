@@ -1,3 +1,5 @@
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
 # ⚔️ RPG de Turno
 
 RPG de turno desenvolvido em Java como projeto prático para explorar os quatro pilares da Programação Orientada a Objetos.
